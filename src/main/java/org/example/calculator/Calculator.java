@@ -1,7 +1,7 @@
 package org.example.calculator;
 
 public class Calculator {
-    public static void add() {
-
+    public int add(String input) {
+        return 0;
     }
 }
