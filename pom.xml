@@ -16,6 +16,12 @@
         <assertj.core.version>3.22.0</assertj.core.version>
         <mockito.version>4.2.0</mockito.version>
     </properties>
+    <repositories>
+    <repository>
+        <id>github</id>
+        <url>https://maven.pkg.github.com/PetterBT/cambridge</url>
+    </repository>
+    </repositories>
     <dependencies>
         <dependency>
             <groupId>org.example</groupId>
